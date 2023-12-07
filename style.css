@@ -1,0 +1,31 @@
+body{
+    background-color: tomato;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.header_div{
+    background-color: maroon;
+    color:dimgrey;
+}
+.header_div p{
+    font-family:cursive;
+    color:azure;
+    letter-spacing:2px;
+    font-size:12px;
+    font-weight: bold;
+}
+.main_div button{
+    margin-top: 30px;
+    width:130px;
+    font-weight:bolder
+}
+.copy_right_footer{
+    position:fixed;
+    background-color: black;
+color:darkgrey;
+bottom:0;
+width:100%;
+font-size:18px;
+line-height:3;
+text-align:center;
+text-shadow:5px 5px 5px indianred;
+}
